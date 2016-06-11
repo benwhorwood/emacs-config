@@ -1,0 +1,21 @@
+[submodule "vendor/async"]
+	path = vendor/async
+	url = https://github.com/jwiegley/emacs-async
+[submodule "vendor/helm"]
+	path = vendor/helm
+	url = https://github.com/emacs-helm/helm
+[submodule "vendor/php-mode"]
+	path = vendor/php-mode
+	url = https://github.com/ejmr/php-mode
+[submodule "vendor/web-mode"]
+	path = vendor/web-mode
+	url = https://github.com/fxbois/web-mode
+[submodule "vendor/markdown-mode"]
+	path = vendor/markdown-mode
+	url = git://jblevins.org/git/markdown-mode.git
+[submodule "vendor/arduino-mode"]
+	path = vendor/arduino-mode
+	url = https://github.com/bookest/arduino-mode.git
+[submodule "vendor/less-css-mode"]
+	path = vendor/less-css-mode
+	url = https://github.com/purcell/less-css-mode.git
